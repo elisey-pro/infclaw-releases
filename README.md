@@ -1,2 +1,7 @@
-# infclaw-releases
-Official InfClaw Windows releases: installers, update packages and signed manifests. Application source code is not included.
+# InfClaw
+
+Официальные установщики и обновления InfClaw для Windows.
+
+[Скачать последнюю версию](https://github.com/elisey-pro/infclaw-releases/releases/latest)
+
+Для установки выберите файл **InfClaw-…-Setup.exe** на странице версии. Последующие обновления можно устанавливать из приложения.
